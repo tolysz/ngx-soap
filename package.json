@@ -1,6 +1,6 @@
 {
   "name": "ngx-soap",
-  "version": "0.6.1-beta.1",
+  "version": "0.6.1-beta.2",
   "description": "SOAP service for Angular",
   "homepage": "https://github.com/lula/ngx-soap",
   "author": "Luca Lulani",
@@ -19,15 +19,15 @@
   "peerDependencies": {
     "@angular/common": ">=6.0.0 <9.0.0",
     "@angular/core": ">=6.0.0 <9.0.0",
-    "buffer": "^5.1.0",
-    "concat-stream": "^1.6.2",
-    "core-js": "^2.5.4",
+    "buffer": "^5.4.3",
+    "concat-stream": "^2.0.0",
+    "core-js": "^3.6.1",
     "crypto-js": "^3.1.9-1",
     "events": "^3.0.0",
-    "lodash": "^4.17.10",
-    "rxjs": "^6.0.0",
+    "lodash": "^4.17.15",
+    "rxjs": "^6.4.0",
     "sax": "^1.2.4",
     "stream": "0.0.2",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.3"
   }
 }
